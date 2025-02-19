@@ -1,4 +1,4 @@
-//SAMPLE1 - convert the following to Camel Case notation:
+//SAMPLE1 - Convert the following to Camel Case notation:
 let someMonth
 function theMonth() {
     let currentMonth
